@@ -1,0 +1,38 @@
+
+
+.Game{
+    width: 255px;
+    text-align: center;
+    color:white;
+    margin:auto;
+}
+.t{
+    background: linear-gradient(#ffffff20 , #000000);
+    border-radius: 25px;
+    padding: 5px 0;
+    margin: 5px 0;
+}
+span{
+    color: rgb(255, 220, 168);
+}
+.square{
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(#ffffff20 , #000000);
+    float: left;
+    margin: 2px;
+    font-size: 60px;
+    color: #fffffffd;
+
+}
+.square:hover{
+    background: rgb(34, 33, 33);
+    cursor: pointer;
+}
+body{
+    background:linear-gradient(to right, #000 45%,#5f3b3b );
+    height: 100vh;
+}
+.h{
+    color: #fff;
+}
